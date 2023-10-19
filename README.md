@@ -5,3 +5,7 @@
 1. [Github Account](https://github.com)
 2. IDEs: [Visual Stdio Code](https://code.visualstudio.com/), [Pycharm](https://www.jetbrains.com/pycharm/download/?section=windows)
 3. [Heroku Account](https://www.heroku.com/)
+4. [Git CLI](https://git-scm.com/downloads)
+
+### Create a new virtual environment
+[python -m venv /path/to/new/virtual/environment]
