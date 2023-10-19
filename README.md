@@ -8,4 +8,4 @@
 4. [Git CLI](https://git-scm.com/downloads)
 
 ### Create a new virtual environment
-[python -m venv /path/to/new/virtual/environment]
+python -m venv /path/to/new/virtual/environment
