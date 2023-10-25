@@ -17,3 +17,4 @@ sklearn==0.0.post10
 threadpoolctl==3.2.0
 tzdata==2023.3
 Werkzeug==3.0.1
+gunicorn
